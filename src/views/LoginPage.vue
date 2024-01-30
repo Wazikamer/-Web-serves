@@ -34,7 +34,7 @@
         </div>
       </div>
       <div class="conditions">
-        <p>Before we start you shoud authorize or log in your account.</p>
+        <!-- <p>Before we start you shoud authorize or log in your account.</p> -->
       </div>
     </div>
   </div>
